@@ -1,0 +1,41 @@
+
+  aside {
+    background: #0e161d;
+    padding: 20px;
+  }
+
+  aside h3 {
+    color: white;
+    font-size: 25px;
+  }
+
+  .aside-content {
+    color: #7cc0eb;
+    text-align: right;
+    margin-top: 150px;
+  }
+
+  body {
+      margin: 0px;
+    display: flex;
+    height:100vh;
+    
+  }
+  
+  
+  aside p {
+    width: 250px;
+   
+  }
+  
+  .btn {
+    padding: 4px 7px;
+    font-size: 0.8rem;
+    text-decoration: none;
+    color: white;
+    margin: 2px;
+    border: 1px solid #aac8db;
+    
+  
+  }
+  
